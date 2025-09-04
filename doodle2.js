@@ -1,0 +1,1 @@
+const winner = document.getElementById("ImAWinner");
